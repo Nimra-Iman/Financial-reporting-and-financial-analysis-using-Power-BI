@@ -1,0 +1,1 @@
+This is complete course to master financial analysis using Power BI, the dataset is mentioned, other projects of Power BI in my profile have analysis related to other domains such as sales and medicin, here a new domain FINANCIAL ANALYSIS is present
